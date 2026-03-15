@@ -1,0 +1,18 @@
+{
+    "site_title": "App Übersicht",
+    "site_subtitle": "Your self-hosted application overview",
+    "nav": [
+        {
+            "label": "START",
+            "url": "/"
+        },
+        {
+            "label": "Link",
+            "url": "#"
+        },
+        {
+            "label": "KoFi",
+            "url": "https://ko-fi.com/rinws"
+        }
+    ]
+}
