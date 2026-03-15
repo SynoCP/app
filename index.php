@@ -282,13 +282,13 @@ href="<?= htmlspecialchars($app["url"], ENT_QUOTES, 'UTF-8') ?>">
     </div>
 
     <div class="footer-links">
-      <a class="footer-link" href="https://github.com/SynoCP/app-overview-dev" target="_blank" rel="noopener noreferrer">
+      <a class="footer-link" href="https://github.com/SynoCP/app" target="_blank" rel="noopener noreferrer">
         GitHub
       </a>
-      <a class="footer-link" href="https://github.com/SynoCP/app-overview-dev/issues" target="_blank" rel="noopener noreferrer">
+      <a class="footer-link" href="https://github.com/SynoCP/app/issues" target="_blank" rel="noopener noreferrer">
         Issues
       </a>
-      <a class="footer-link" href="https://github.com/SynoCP/app-overview-dev/blob/main/README.md" target="_blank" rel="noopener noreferrer">
+      <a class="footer-link" href="https://github.com/SynoCP/app/blob/main/README.md" target="_blank" rel="noopener noreferrer">
         Docs
       </a>
     </div>
